@@ -14,7 +14,7 @@ learn [markdown](https://help.github.com/articles/markdown-basics/) and contribu
 #### people
 - [josh hug](http://joshh.ug/)
 - [shawn park](http://www.designbyroka.com/)
-- 
+
 
 #### blog posts
 - [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
