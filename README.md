@@ -23,4 +23,5 @@ learn [markdown](https://help.github.com/articles/markdown-basics/) and contribu
 #### yet to be categorized
 - [windows 93](http://www.windows93.net/)
 - [web GL experiments/ACNPL Canvas Playground](http://www.acnplwgl.com/)
+- [api for extracting tagnames from images](http://clarifai.com/#demo)
 
