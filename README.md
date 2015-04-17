@@ -25,4 +25,5 @@ learn [markdown](https://help.github.com/articles/markdown-basics/) and contribu
 - [web GL experiments/ACNPL Canvas Playground](http://www.acnplwgl.com/)
 - [api for extracting tagnames from images](http://clarifai.com/#demo)
 - [word camera, converts images into paragraphs](http://word.camera/) 
+- [MOTION for the web](http://codepen.io/sol0mka/pen/ogOYJj)
 
