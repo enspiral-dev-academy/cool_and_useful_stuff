@@ -26,4 +26,5 @@ learn [markdown](https://help.github.com/articles/markdown-basics/) and contribu
 - [api for extracting tagnames from images](http://clarifai.com/#demo)
 - [word camera, converts images into paragraphs](http://word.camera/) 
 - [MOTION for the web](http://codepen.io/sol0mka/pen/ogOYJj)
+- [Peformance Focused Pure Css loading animations](http://connoratherton.com/loaders)
 
