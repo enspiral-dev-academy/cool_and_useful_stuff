@@ -13,6 +13,12 @@ learn [markdown](https://help.github.com/articles/markdown-basics/) and contribu
 #### apis
 [enormous list of APIs](http://www.programmableweb.com/apis)
 
+#### videos
+- [Predicting a Billboard Music Hit with Shazam Data - Cait O'Riordan](https://youtu.be/mcTPvxo8SXY)
+- [David Jones, Ben Knight, Bettina Warburg: The Future of Work | Skoll World Forum 2015](https://youtu.be/xvR8bqY5dNM)
+- [Greetings Fellow Alienated Subject of Late Capitalism](https://vimeo.com/128030788)
+
+
 #### algorithms
 - [beautiful visualizations of maze generation algorithms](http://www.jamisbuck.org/presentations/rubyconf2011/index.html#)
 
