@@ -1,11 +1,17 @@
 # cool_and_useful_stuff
-self-organizing repository for cool and useful stuff relating to programming
+
+self-organizing repository for cool and useful stuff relating to programming.
+
 learn [markdown](https://help.github.com/articles/markdown-basics/) and contribute
 
 #### gems
+- [Sentimental](https://github.com/7compass/sentimental), decent quality sentiment analysis gem
+- [Apipie](https://github.com/Apipie/apipie-rails), rails API documentation tool
+- [Delayed Job](https://github.com/collectiveidea/delayed_job), job/task scheduling
+- [Devise](https://github.com/plataformatec/devise), user management/authentication/permissions/etc
 
-#### sentiment analysis
-- [decent-quality, simple to use sentiment analysis gem](https://github.com/7compass/sentimental)
+#### apis
+[enormous list of APIs](http://www.programmableweb.com/apis)
 
 #### algorithms
 - [beautiful visualizations of maze generation algorithms](http://www.jamisbuck.org/presentations/rubyconf2011/index.html#)
