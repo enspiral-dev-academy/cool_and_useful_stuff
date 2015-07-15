@@ -2,6 +2,8 @@
 self-organizing repository for cool and useful stuff relating to programming
 learn [markdown](https://help.github.com/articles/markdown-basics/) and contribute
 
+#### gems
+
 #### sentiment analysis
 - [decent-quality, simple to use sentiment analysis gem](https://github.com/7compass/sentimental)
 
@@ -10,21 +12,46 @@ learn [markdown](https://help.github.com/articles/markdown-basics/) and contribu
 
 #### artificial intelligence
 - [ELIZA - simple AI written in js](http://www.masswerk.at/elizabot/)
+- [api for extracting tagnames from images](http://clarifai.com/#demo)
+- [ConceptNet 5](http://conceptnet5.media.mit.edu/), api to a semantic network of concepts - allows computers to comprehend text written by people. hard to explain, just check it out.
+- [word camera](http://word.camera/), converts images into paragraphs
+
+#### data visualization
+- [d3.js](http://d3js.org/), javascript library for data visualization
+
+#### mobile
+- [cordova](https://cordova.apache.org/), platform for building native mobile applications using HTML, CSS and JavaScript
+
+#### simulations
+- [cellauto.js](http://sanojian.github.io/cellauto/), library for cellular automata simulations
+
+#### inspiration
+- [/r/dataisbeautiful](http://www.reddit.com/r/dataisbeautiful)
+- [/r/internetisbeautiful](http://www.reddit.com/r/InternetIsBeautiful)
 
 #### people
 - [josh hug](http://joshh.ug/)
 - [shawn park](http://www.designbyroka.com/)
 
+#### animation 
+- [three.js](http://threejs.org/), 3D javascript animation library
+- [paper.js](http://paperjs.org/), 2D javascript animation library
+- [victor.js](http://victorjs.org/), 2D javascript vector maths library
+- [processing.js](http://processingjs.org/), 2D javascript animation library
+- [create.js](http://www.createjs.com/), suite of javascript for canvas/animation/audio/asset-loading
+
+#### front-end, styling
+- [Performance Focused Pure Css loading animations](http://connoratherton.com/loaders)
+- [SweetAlert](http://t4t5.github.io/sweetalert/), makes javascript alerts and prompts look really pretty.
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/), icons/fonts css toolkit
 
 #### blog posts
 - [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [The AI Revolution: Our Immortality or Extinction](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 
+#### videos
+
 #### yet to be categorized
 - [windows 93](http://www.windows93.net/)
 - [web GL experiments/ACNPL Canvas Playground](http://www.acnplwgl.com/)
-- [api for extracting tagnames from images](http://clarifai.com/#demo)
-- [word camera, converts images into paragraphs](http://word.camera/) 
 - [MOTION for the web](http://codepen.io/sol0mka/pen/ogOYJj)
-- [Peformance Focused Pure Css loading animations](http://connoratherton.com/loaders)
-
